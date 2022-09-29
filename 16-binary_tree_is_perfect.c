@@ -2,7 +2,7 @@
 
 
 /**
- * binary_tree_height - get height of tree
+ * height_tree - get height of tree
  *
  * @tree: tree
  * Return: size
